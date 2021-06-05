@@ -30,6 +30,9 @@
  *
  * Update the foundational and global aspects of the page.
  */
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@1,500&display=swap');
+</style>
 
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
@@ -79,7 +82,8 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
+  /*font-family: "Abril Fatface", serif; */
+  font-family: 'Source Code Pro', monospace;
   font-size: 3.25rem;
   text-align: right;
 }
