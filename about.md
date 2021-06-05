@@ -16,7 +16,7 @@ Hi, I am <em><b>Hetav Modi</b></em> (हेतव मोदी), currently a ris
 <br>
 I'm always up for a conversation, you can <a href = "mailto: hetav.1805@gmail.com">email me</a> - either 
 about a blog post or anything else. 
-</p>
+</span>
 
 <!--
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
