@@ -18,4 +18,6 @@ Putting my work out there will make me more accountable and also just help me do
 <h2>What I expect to post? </h2>
 Interesting projects I am working on, leetcode solutions and my book recommendations!
 <br>
-Thats all for now! :)
+<br>
+Thats all for now! I'm always up for a conversation, you can <a href = "mailto: hetav.1805@gmail.com">email me</a> - either about a blog post or anything else. 
+
