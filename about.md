@@ -9,6 +9,7 @@ title: About
 
 Hi, I am <em><b>Hetav Modi</b></em> (हेतव मोदी), currently a rising junior with major in Computer Science and Engineering from Ahmedabad, India. I am interested in Operating systems and optimization for cache replacement and also a part of the Video processing research group at my University. I also like to solve DSA related questions. When I am not working, I like cooking, read (mostly fiction) and watch youtube videos. Above all, I like to improve myself, a little bit, everyday! 
 <br>
+<br>
 I'm always up for a conversation, you can <a href = "mailto: hetav.1805@gmail.com">email me</a> - either 
 about a blog post or anything else. 
 
