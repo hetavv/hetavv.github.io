@@ -7,7 +7,6 @@
           c:\hetav\blog
         </a>
       </h1>
-      <p class="lead">{{ site.description }}</p>
     </div>
 
     <nav class="sidebar-nav">
@@ -15,7 +14,46 @@
     <a style="text-align: right;" class='sidebar-nav-item' href='/about/'>About</a>
 
 
-      <!--
+      
+      </nav>
+
+    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      {% comment %}
+        The code below dynamically generates a sidebar nav of pages with
+        `layout: page` in the front-matter. See readme for usage.
+
+        <!-- <p class="lead">{{ site.description }}</p> -->
+
+        
       <a style="text-align: right" class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
       <a style="text-align: right" href="https://hetavv.github.io/about/">About</a>
       {% assign pages_list = site.pages %}
@@ -32,16 +70,4 @@
       <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub project</a>
       
       <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
-      -->
-
-      </nav>
-
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
-  </div>
-</div>
-
-
-      {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
       {% endcomment %}
