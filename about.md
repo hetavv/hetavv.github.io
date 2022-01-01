@@ -13,7 +13,7 @@ title: About
 Hi, I am <em><b>Hetav M.</b></em> (हेतव म.), currently a junior with major in Computer Science and Engineering from Ahmedabad, India. I am interested in using code to build softwares and systems that people can use. I also like to solve DSA related questions. When I am not working, I like cooking, love to read(mostly fiction), and watch youtube videos. Above all, I like to improve myself, a little bit, everyday! 
 <br>
 <br>
-I'm always up for a conversation, you can <a href = "mailto: hetav.1805@gmail.com">email me</a> - either 
+I'm always up for a conversation, you can <u><a href = "mailto: hetav.1805@gmail.com">email me</a></u> - either 
 about a blog post or anything else. 
 
 <!--
